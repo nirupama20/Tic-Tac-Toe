@@ -66,15 +66,6 @@ document.body.appendChild(box);
 
 
 
-let player1 = 'X' 
-let player2 = 'O'
-
-
-
-
-
-
-
 
 
 
